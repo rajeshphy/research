@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/research/research/2024/08/11/SUSY.html</loc>
+<lastmod>2024-08-11T21:20:35+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/research/2024/08/12/EOP.html</loc>
+<lastmod>2024-08-12T00:00:35+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/research/2024/08/15/PT-Symmetry.html</loc>
+<lastmod>2024-08-15T00:00:35+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/assets/blog_files/genome-coverage-vis/complex_plot.pdf</loc>
+<lastmod>2024-08-14T19:26:33+05:30</lastmod>
+</url>
+</urlset>
