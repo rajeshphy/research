@@ -17,9 +17,9 @@ lang: en-US
 title: Rajesh Kumar
 email: kr.rajesh.phy@gmail.com
 description: Theoretical Physicst
-baseurl: "" # the optional subpath of your site, e.g. "/blog"
+baseurl: "/research" # the optional subpath of your site, e.g. "/blog"
 url:  # the base hostname & protocol for your site e.g. ""
-PAPERS-ORG: "/research" #For online it shold be blank ""
+PAPERS-ORG: "" #For online it shold be blank ""
 author:
   name: Rajesh Kumar
   twitter:
