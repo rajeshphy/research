@@ -19,12 +19,19 @@ graph TD;
     A0 --> A; A --> B; B --> C; C --> D;
 
 
-    E1[1959-Isotropic Harmonic Oscillator-Demkov]
-    E2[1963-Ansotropic Harmonic Oscillator-Demkov]
+    E1(1959-Isotropic Harmonic Oscillator-Demkov)
+    E2(1963-Ansotropic Harmonic Oscillator-Demkov)
 
-    D --> E1;
+    D --> E1;    E1 --> E2;
 
-    E1 --> E2;
+    F1[1958-Relation Between Accidental Degenearcy & Hidden Symmetry-Alliluev]
+    F2[1960-Relation Between Accidental Degenearcy & Hidden Symmetry-Alliluev]
+    F3[1956-N-Dimensional Isotropic HO-Baker]
+    F4[1965-2D-Harmonic Oscillator-Dulock]
+    F5[1980-3D-Harmonic Oscillator-Flessas]
+
+    E2 --> F1; F1 --> F2; F2 --> F3; F3 --> F4; F4 --> F5;
+
 
 
 

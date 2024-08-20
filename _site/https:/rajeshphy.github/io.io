@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-08-20T16:07:27+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Degeneracy in Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/20/Degeneracy.html" rel="alternate" type="text/html" title="Degeneracy in Quantum Mechanics" /><published>2024-08-20T00:00:35+05:30</published><updated>2024-08-20T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/20/Degeneracy</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/20/Degeneracy.html">&lt;p&gt;Accidental degeneracy and other related degeneracies in quantum mechanics are discussed in the following papers.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-08-20T16:43:58+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Degeneracy in Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/20/Degeneracy.html" rel="alternate" type="text/html" title="Degeneracy in Quantum Mechanics" /><published>2024-08-20T00:00:35+05:30</published><updated>2024-08-20T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/20/Degeneracy</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/20/Degeneracy.html">&lt;p&gt;Accidental degeneracy and other related degeneracies in quantum mechanics are discussed in the following papers.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;mermaid&quot;&gt;
@@ -13,12 +13,31 @@ graph TD;
     A0 --&amp;gt; A; A --&amp;gt; B; B --&amp;gt; C; C --&amp;gt; D;
 
 
+    E1(1959-Isotropic Harmonic Oscillator-Demkov)
+    E2(1963-Ansotropic Harmonic Oscillator-Demkov)
+
+    D --&amp;gt; E1;    E1 --&amp;gt; E2;
+
+    F1[1958-Relation Between Accidental Degenearcy &amp;amp; Hidden Symmetry-Alliluev]
+    F2[1960-Relation Between Accidental Degenearcy &amp;amp; Hidden Symmetry-Alliluev]
+    F3[1956-N-Dimensional Isotropic HO-Baker]
+    F4[1965-2D-Harmonic Oscillator-Dulock]
+    F5[1980-3D-Harmonic Oscillator-Flessas]
+
+    E2 --&amp;gt; F1; F1 --&amp;gt; F2; F2 --&amp;gt; F3; F3 --&amp;gt; F4; F4 --&amp;gt; F5;
+
+
+
+
 
     click A0 &quot;/PAPERS-ORG/Degeneracy/1940-jauch.pdf&quot;;
     click A &quot;/PAPERS-ORG/Degeneracy/1973-louck.pdf&quot;;
     click B &quot;/PAPERS-ORG/Degeneracy/1981-Wai-Kee-Lee-Degeneracy-Square-Problem.pdf&quot;;
     click C &quot;/PAPERS-ORG/Degeneracy/1997-Accidental-Degeneracy-Pendulum.pdf&quot;;
     click D &quot;/PAPERS-ORG/Degeneracy/1990-moshinsky.pdf&quot;;
+
+    click E1 &quot;/PAPERS-ORG/Degeneracy/1959-DEMKOV-Isotropic.pdf&quot;;
+    click E2 &quot;/PAPERS-ORG/Degeneracy/1963-DEMKOV-Anisotropic.pdf&quot;;
 
 
 
