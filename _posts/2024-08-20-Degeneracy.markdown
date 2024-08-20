@@ -29,7 +29,7 @@ graph TD;
     F4[1965-2D-Harmonic Oscillator-Dulock]
     F5[1980-3D-Harmonic Oscillator-Flessas]
 
-    E2 --> F1; F1 --> F2; F2 --> F3; F3 --> F4; F4 --> F5;
+    E2 --> F2; F2 --> F3; F3 --> F4; F4 --> F5;
 
 
 

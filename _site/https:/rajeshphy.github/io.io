@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-08-20T16:47:39+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Degeneracy in Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/20/Degeneracy.html" rel="alternate" type="text/html" title="Degeneracy in Quantum Mechanics" /><published>2024-08-20T00:00:35+05:30</published><updated>2024-08-20T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/20/Degeneracy</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/20/Degeneracy.html">&lt;p&gt;Accidental degeneracy and other related degeneracies in quantum mechanics are discussed in the following papers.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-08-20T16:48:13+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Degeneracy in Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/20/Degeneracy.html" rel="alternate" type="text/html" title="Degeneracy in Quantum Mechanics" /><published>2024-08-20T00:00:35+05:30</published><updated>2024-08-20T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/20/Degeneracy</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/20/Degeneracy.html">&lt;p&gt;Accidental degeneracy and other related degeneracies in quantum mechanics are discussed in the following papers.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;mermaid&quot;&gt;
@@ -23,7 +23,7 @@ graph TD;
     F4[1965-2D-Harmonic Oscillator-Dulock]
     F5[1980-3D-Harmonic Oscillator-Flessas]
 
-    E2 --&amp;gt; F1; F1 --&amp;gt; F2; F2 --&amp;gt; F3; F3 --&amp;gt; F4; F4 --&amp;gt; F5;
+    E2 --&amp;gt; F2; F2 --&amp;gt; F3; F3 --&amp;gt; F4; F4 --&amp;gt; F5;
 
 
 
