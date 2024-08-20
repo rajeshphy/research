@@ -27,9 +27,11 @@ graph TD;
     F2[1960-Relation Between Accidental Degenearcy & Hidden Symmetry-Alliluev]
     F3[1956-N-Dimensional Isotropic HO-Baker]
     F4[1965-2D-Harmonic Oscillator-Dulock]
-    F5[1980-3D-Harmonic Oscillator-Flessas]
+    F5[1965-3D-Isotropic and SU(3)-Fradkin]
+    F6[1980-3D-Harmonic Oscillator-Flessas]
 
-    E2 --> F2; F2 --> F3; F3 --> F4; F4 --> F5;
+    E2 --> F2; F2 --> F3; F3 --> F4; F4 --> F5; F5 --> F6;
+
 
 
 
@@ -47,7 +49,8 @@ graph TD;
     click F2 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1958-ALLILUEV.pdf";
     click F3 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1956-baker-Isotropic.pdf";
     click F4 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/dulock1965.pdf";
-    click F5 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/flessas1980.pdf";
+    click F5 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/fradkin1965.pdf";
+    click F6 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/flessas1980.pdf";
 
 
 
