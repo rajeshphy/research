@@ -22,6 +22,10 @@ graph TD;
     E1[1959-Isotropic Harmonic Oscillator-Demkov]
     E2[1963-Ansotropic Harmonic Oscillator-Demkov]
 
+    D --> E1;
+
+    E1 --> E2;
+
 
 
 
