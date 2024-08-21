@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-08-20T16:56:57+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Degeneracy in Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/20/Degeneracy.html" rel="alternate" type="text/html" title="Degeneracy in Quantum Mechanics" /><published>2024-08-20T00:00:35+05:30</published><updated>2024-08-20T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/20/Degeneracy</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/20/Degeneracy.html">&lt;p&gt;Accidental degeneracy and other related degeneracies in quantum mechanics are discussed in the following papers.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-08-21T08:40:56+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Degeneracy in Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/20/Degeneracy.html" rel="alternate" type="text/html" title="Degeneracy in Quantum Mechanics" /><published>2024-08-20T00:00:35+05:30</published><updated>2024-08-20T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/20/Degeneracy</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/20/Degeneracy.html">&lt;p&gt;Accidental degeneracy and other related degeneracies in quantum mechanics are discussed in the following papers.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;mermaid&quot;&gt;
@@ -31,20 +31,20 @@ graph TD;
 
 
 
-    click A0 &quot;/PAPERS-ORG/Degeneracy/1940-jauch.pdf&quot;;
-    click A &quot;/PAPERS-ORG/Degeneracy/1973-louck.pdf&quot;;
-    click B &quot;/PAPERS-ORG/Degeneracy/1981-Wai-Kee-Lee-Degeneracy-Square-Problem.pdf&quot;;
-    click C &quot;/PAPERS-ORG/Degeneracy/1997-Accidental-Degeneracy-Pendulum.pdf&quot;;
-    click D &quot;/PAPERS-ORG/Degeneracy/1990-moshinsky.pdf&quot;;
+    click A0 &quot;/research/PAPERS-ORG/Degeneracy/1940-jauch.pdf&quot;;
+    click A &quot;/research/PAPERS-ORG/Degeneracy/1973-louck.pdf&quot;;
+    click B &quot;/research/PAPERS-ORG/Degeneracy/1981-Wai-Kee-Lee-Degeneracy-Square-Problem.pdf&quot;;
+    click C &quot;/research/PAPERS-ORG/Degeneracy/1990-moshinsky.pdf&quot;;
+    click D &quot;/research/PAPERS-ORG/Degeneracy/1997-Accidental-Degeneracy-Pendulum.pdf&quot;;
 
-    click E1 &quot;/PAPERS-ORG/Degeneracy/1959-DEMKOV-Isotropic.pdf&quot;;
-    click E2 &quot;/PAPERS-ORG/Degeneracy/1963-DEMKOV-Anisotropic.pdf&quot;;
+    click E1 &quot;/research/PAPERS-ORG/Degeneracy/1959-DEMKOV-Isotropic.pdf&quot;;
+    click E2 &quot;/research/PAPERS-ORG/Degeneracy/1963-DEMKOV-Anisotropic.pdf&quot;;
 
-    click F2 &quot;/PAPERS-ORG/Degeneracy/1958-ALLILUEV.pdf&quot;;
-    click F3 &quot;/PAPERS-ORG/Degeneracy/1956-baker-Isotropic.pdf&quot;;
-    click F4 &quot;/PAPERS-ORG/Degeneracy/dulock1965.pdf&quot;;
-    click F5 &quot;/PAPERS-ORG/Degeneracy/fradkin1965.pdf&quot;;
-    click F6 &quot;/PAPERS-ORG/Degeneracy/flessas1980.pdf&quot;;
+    click F2 &quot;/research/PAPERS-ORG/Degeneracy/1958-ALLILUEV.pdf&quot;;
+    click F3 &quot;/research/PAPERS-ORG/Degeneracy/1956-baker-Isotropic.pdf&quot;;
+    click F4 &quot;/research/PAPERS-ORG/Degeneracy/dulock1965.pdf&quot;;
+    click F5 &quot;/research/PAPERS-ORG/Degeneracy/fradkin1965.pdf&quot;;
+    click F6 &quot;/research/PAPERS-ORG/Degeneracy/flessas1980.pdf&quot;;
 
 
 
@@ -83,22 +83,22 @@ graph TD;
     B--&amp;gt;C; C--&amp;gt;D;
 
 
-    click A1 &quot;/PAPERS-ORG/PT-Symmetry/2002-Necessary-Sufficient-Condition-Mostafazadeh.pdf&quot;;
-    click A2 &quot;/PAPERS-ORG/PT-Symmetry/2002-Characterization-Non-Hermitian-Mostafazadeh.pdf&quot;;
-    click A3 &quot;/PAPERS-ORG/PT-Symmetry/2002-Equivalence-Pseudo-Hermiticity-Antilinear-Symmetries-Mostafazadeh.pdf&quot;;
+    click A1 &quot;/research/PAPERS-ORG/PT-Symmetry/2002-Necessary-Sufficient-Condition-Mostafazadeh.pdf&quot;;
+    click A2 &quot;/research/PAPERS-ORG/PT-Symmetry/2002-Characterization-Non-Hermitian-Mostafazadeh.pdf&quot;;
+    click A3 &quot;/research/PAPERS-ORG/PT-Symmetry/2002-Equivalence-Pseudo-Hermiticity-Antilinear-Symmetries-Mostafazadeh.pdf&quot;;
 
-    click B &quot;/PAPERS-ORG/PT-Symmetry/2002-Pseudo-Hermiticity-Gauge-Like-Transformations-Ahmed.pdf&quot;;
+    click B &quot;/research/PAPERS-ORG/PT-Symmetry/2002-Pseudo-Hermiticity-Gauge-Like-Transformations-Ahmed.pdf&quot;;
 
-    click C &quot;/PAPERS-ORG/PT-Symmetry/2013-PT-Phase-Transition-Mandal.pdf&quot;;
+    click C &quot;/research/PAPERS-ORG/PT-Symmetry/2013-PT-Phase-Transition-Mandal.pdf&quot;;
 
-    click D &quot;/PAPERS-ORG/PT-Symmetry/2016-Similarity-Transformation-Fernandez.pdf&quot;;
+    click D &quot;/research/PAPERS-ORG/PT-Symmetry/2016-Similarity-Transformation-Fernandez.pdf&quot;;
 
 
 
 &lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">PT symmetry is a concept in quantum mechanics that was introduced in the 1990s. It is based on the idea that the laws of physics should be invariant under the combined operations of parity (P) and time reversal (T). In other words, if a system is symmetric under the combined operations of parity and time reversal, it is said to exhibit PT symmetry.</summary></entry><entry><title type="html">Exceptional Orthogonal polynomials</title><link href="http://localhost:4000/research/research/2024/08/12/EOP.html" rel="alternate" type="text/html" title="Exceptional Orthogonal polynomials" /><published>2024-08-12T00:00:35+05:30</published><updated>2024-08-12T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/12/EOP</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/12/EOP.html">&lt;p&gt;Started with D G´omez-Ullate in 2004, the concept of Exceptional Orthogonal Polynomials (EOP) was introduced. This concept was further developed by C Quesne in 2008 and Yves Grandati in 2012.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Flow Chart Based on paper: &lt;a href=&quot;/PAPERS-ORG/EOP/quesne2008.pdf&quot;&gt;2008 - EOP, Exactly solvable potentials and SUSY - C Quesne&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Flow Chart Based on paper: &lt;a href=&quot;/research/PAPERS-ORG/EOP/quesne2008.pdf&quot;&gt;2008 - EOP, Exactly solvable potentials and SUSY - C Quesne&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/quant-ph/0308062&quot;&gt;2004 - First EOP Discovery - DBT and shape-invariant potentials - D G´omez-Ullate&lt;/a&gt;&lt;/p&gt;
 
@@ -119,13 +119,13 @@ flowchart TD;
 
 
 
-    click A &quot;/PAPERS-ORG/EOP/2009-Ullate-Kamran-Milson.pdf&quot;;
-    click B &quot;/PAPERS-ORG/EOP/2009-Extended-Class-Ullate-Kamran-Milson.pdf&quot;;
-    click B1 &quot;/PAPERS-ORG/EOP/quesne2008.pdf&quot;;
+    click A &quot;/research/PAPERS-ORG/EOP/2009-Ullate-Kamran-Milson.pdf&quot;;
+    click B &quot;/research/PAPERS-ORG/EOP/2009-Extended-Class-Ullate-Kamran-Milson.pdf&quot;;
+    click B1 &quot;/research/PAPERS-ORG/EOP/quesne2008.pdf&quot;;
 
-    click C &quot;/PAPERS-ORG/EOP/2004-Algebraic-Deformations-Ullate-Kamran-Milson.pdf&quot;;
+    click C &quot;/research/PAPERS-ORG/EOP/2004-Algebraic-Deformations-Ullate-Kamran-Milson.pdf&quot;;
 
-    click D &quot;/papers/2012-Grandati-Rational-Extension.pdf&quot;;
+    click D &quot;/research/papers/2012-Grandati-Rational-Extension.pdf&quot;;
 &lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">Started with D G´omez-Ullate in 2004, the concept of Exceptional Orthogonal Polynomials (EOP) was introduced. This concept was further developed by C Quesne in 2008 and Yves Grandati in 2012.</summary></entry><entry><title type="html">Supersymmetry Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/11/SUSY.html" rel="alternate" type="text/html" title="Supersymmetry Quantum Mechanics" /><published>2024-08-11T21:20:35+05:30</published><updated>2024-08-11T21:20:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/11/SUSY</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/11/SUSY.html">&lt;p&gt;Started with L. Infeld, and T.E. Hull in 1951, the factorization method was used to solve the Schrödinger equation. This method was later used by Gendenshtein in 1983 to introduce the concept of shape invariance. This concept was further developed by Cooper and Freedman in 1983.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -134,13 +134,13 @@ flowchart TD;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ias.ac.in/article/fulltext/pram/049/01/0041-0064&quot;&gt;SQM - A. Khare&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/quant-ph/0308062&quot;&gt;2004 - First EOP Discovery - DBT and shape-invariant potentials - D G´omez-Ullate&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PAPERS-ORG/SUSY/2009-Fellow-Smith.pdf&quot;&gt;2009 - Factorization - Fellow and Smith&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PAPERS-ORG/SUSY/2013-Marquette-Two-Step.pdf&quot;&gt;2013 - Two step Rational Extension - Ian Marquette&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PAPERS-ORG/SUSY/2017-Rational-Extension-D-Dimension.pdf&quot;&gt;2017 - Rational-Extension-D-Dimension-RKY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/2009-Fellow-Smith.pdf&quot;&gt;2009 - Factorization - Fellow and Smith&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/2013-Marquette-Two-Step.pdf&quot;&gt;2013 - Two step Rational Extension - Ian Marquette&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/2017-Rational-Extension-D-Dimension.pdf&quot;&gt;2017 - Rational-Extension-D-Dimension-RKY&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/PAPERS-ORG/SUSY/Adjoint-DarbouxTransformationLiouville-Thesis.pdf&quot;&gt;Thesis - Adjoint-DarbouxTransformation-Liouville - Kyle Robert Bryenton&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/Adjoint-DarbouxTransformationLiouville-Thesis.pdf&quot;&gt;Thesis - Adjoint-DarbouxTransformation-Liouville - Kyle Robert Bryenton&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PAPERS-ORG/SUSY/2023-Rajesh-Kumar-REHO.pdf&quot;&gt;2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/2023-Rajesh-Kumar-REHO.pdf&quot;&gt;2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -183,29 +183,29 @@ flowchart TD;
 
 
   
-    click A &quot;/PAPERS-ORG/SUSY/1951-Infeld-Hull.pdf&quot;;
-    click B &quot;/PAPERS-ORG/SUSY/1983-Gendenshtein.pdf&quot;;
-    click C &quot;/PAPERS-ORG/SUSY/1983-Cooper-Freedman.pdf&quot;;
+    click A &quot;/research/PAPERS-ORG/SUSY/1951-Infeld-Hull.pdf&quot;;
+    click B &quot;/research/PAPERS-ORG/SUSY/1983-Gendenshtein.pdf&quot;;
+    click C &quot;/research/PAPERS-ORG/SUSY/1983-Cooper-Freedman.pdf&quot;;
 
-    click A1 &quot;/PAPERS-ORG/SUSY/1984-Andrianov-Darboux.pdf&quot;;
-    click B1 &quot;/PAPERS-ORG/SUSY/1984-Nieto-Witten.pdf&quot;;
+    click A1 &quot;/research/PAPERS-ORG/SUSY/1984-Andrianov-Darboux.pdf&quot;;
+    click B1 &quot;/research/PAPERS-ORG/SUSY/1984-Nieto-Witten.pdf&quot;;
 
-    click D &quot;/PAPERS-ORG/SUSY/1984-Mielnik.pdf&quot;;
+    click D &quot;/research/PAPERS-ORG/SUSY/1984-Mielnik.pdf&quot;;
 
-    click A2 &quot;/PAPERS-ORG/SUSY/sukumar1985-1D-problem.pdf&quot;;
-    click B2 &quot;/PAPERS-ORG/SUSY/sukumar1985-scattering.pdf&quot;;
+    click A2 &quot;/research/PAPERS-ORG/SUSY/sukumar1985-1D-problem.pdf&quot;;
+    click B2 &quot;/research/PAPERS-ORG/SUSY/sukumar1985-scattering.pdf&quot;;
 
-    click E &quot;/PAPERS-ORG/SUSY/1995-Cooper-Khare-Sukhatme.pdf&quot;;
-    click E0 &quot;/PAPERS-ORG/SUSY/1998-Simple-Generation-of-Anharmonic-Potentials.pdf&quot;;
-    click E1 &quot;/PAPERS-ORG/SUSY/2012-Grandati-Rational-Extension.pdf&quot;;
+    click E &quot;/research/PAPERS-ORG/SUSY/1995-Cooper-Khare-Sukhatme.pdf&quot;;
+    click E0 &quot;/research/PAPERS-ORG/SUSY/1998-Simple-Generation-of-Anharmonic-Potentials.pdf&quot;;
+    click E1 &quot;/research/PAPERS-ORG/SUSY/2012-Grandati-Rational-Extension.pdf&quot;;
 
-    click F &quot;/PAPERS-ORG/SUSY/2014-truncated-David-Fernandez.pdf&quot;;
+    click F &quot;/research/PAPERS-ORG/SUSY/2014-truncated-David-Fernandez.pdf&quot;;
 
 &lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;higher-dimensional-susy&quot;&gt;Higher Dimensional SUSY&lt;/h3&gt;
-&lt;p&gt;Based on the paper: &lt;a href=&quot;/PAPERS-ORG/SUSY/1997-Das-Okobo-Higher-Dimensional.pdf&quot;&gt;1997 - Higher Dimensional SUSY - Das &amp;amp; Okubo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Based on the paper: &lt;a href=&quot;/research/PAPERS-ORG/SUSY/1997-Das-Okobo-Higher-Dimensional.pdf&quot;&gt;1997 - Higher Dimensional SUSY - Das &amp;amp; Okubo&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;mermaid&quot;&gt;
 flowchart TD;
@@ -222,12 +222,12 @@ flowchart TD;
 
 
 
-    click HD1 &quot;/PAPERS-ORG/SUSY/1984-Clark-Love.pdf&quot;;
-    click HD2 &quot;/PAPERS-ORG/SUSY/1983-Rittenberg.pdf&quot;;
-    click HD3 &quot;/PAPERS-ORG/SUSY/1984-Andrianov-Darboux.pdf&quot;;
-    click HD4 &quot;/PAPERS-ORG/SUSY/1984-Khare-Maharana.pdf&quot;;
-    click HD5 &quot;/PAPERS-ORG/SUSY/1985-Sukumar-Dirac.pdf&quot;;
-    click HD6 &quot;/PAPERS-ORG/SUSY/1992-Leblanc-Lozano.pdf&quot;;
+    click HD1 &quot;/research/PAPERS-ORG/SUSY/1984-Clark-Love.pdf&quot;;
+    click HD2 &quot;/research/PAPERS-ORG/SUSY/1983-Rittenberg.pdf&quot;;
+    click HD3 &quot;/research/PAPERS-ORG/SUSY/1984-Andrianov-Darboux.pdf&quot;;
+    click HD4 &quot;/research/PAPERS-ORG/SUSY/1984-Khare-Maharana.pdf&quot;;
+    click HD5 &quot;/research/PAPERS-ORG/SUSY/1985-Sukumar-Dirac.pdf&quot;;
+    click HD6 &quot;/research/PAPERS-ORG/SUSY/1992-Leblanc-Lozano.pdf&quot;;
 &lt;/div&gt;
 
 &lt;hr /&gt;

@@ -40,8 +40,8 @@ graph TD;
     click A0 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1940-jauch.pdf";
     click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1973-louck.pdf";
     click B "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1981-Wai-Kee-Lee-Degeneracy-Square-Problem.pdf";
-    click C "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1997-Accidental-Degeneracy-Pendulum.pdf";
-    click D "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1990-moshinsky.pdf";
+    click C "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1990-moshinsky.pdf";
+    click D "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1997-Accidental-Degeneracy-Pendulum.pdf";
 
     click E1 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1959-DEMKOV-Isotropic.pdf";
     click E2 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Degeneracy/1963-DEMKOV-Anisotropic.pdf";
