@@ -16,8 +16,12 @@ graph TD;
     B[Theory]
     C[1995-SUSY-Moshinsky]
     D[2005-Uncertainty-Quesne]
+    
+    E[2003-Quasi-exact solvability of Dirac–Pauli-CL_HO]
+    F[2014-Dirac Oscillator in Transverse Electric Field-Nath]
+    G[2018-Position-dependent mass-CL_HO]
 
-    A --> B; B --> C; C --> D;
+    A --> B; B --> C; C --> D; D --> E; E --> F; F --> G;
     
 
 
@@ -28,6 +32,10 @@ graph TD;
     click B "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/Theory-Mohinsky.pdf";
     click C "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/1995-SUSY-Moshinsky.pdf";
     click D "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/2005-Uncertainty-Quesne.pdf";
+    click E "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/2003-Quasi-Exact-CL-HO.pdf";
+    click F "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/2014-Electric-Magnetic-Nath.pdf";
+    click G "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/2018-Position-Dependent-Mass-CL-HO.pdf";
+
 
 
 
