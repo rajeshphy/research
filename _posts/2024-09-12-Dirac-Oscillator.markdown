@@ -13,6 +13,7 @@ Originally conceived as a modification of the free particle Dirac equation, the 
 graph TD;
 
     A[1989-Dirac Oscillator-moshinsky]
+    A1[1991-Quesne-SUSY]
     B[Theory]
     C[1995-SUSY-Moshinsky]
     D[2005-Uncertainty-Quesne]
@@ -21,7 +22,7 @@ graph TD;
     F[2014-Dirac Oscillator in Transverse Electric Field-Nath]
     G[2018-Position-dependent mass-CL_HO]
 
-    A --> B; B --> C; C --> D; D --> E; E --> F; F --> G;
+    A -->A1;A1--> B; B --> C; C --> D; D --> E; E --> F; F --> G;
     
 
 
@@ -29,6 +30,7 @@ graph TD;
 
 
     click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/1989-moshinsky.pdf";
+    click A1 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/1991-SUSY-Quesne.pdf";
     click B "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/Theory-Mohinsky.pdf";
     click C "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/1995-SUSY-Moshinsky.pdf";
     click D "{{ site.PAPERS-ORG }}/PAPERS-ORG/Dirac/2005-Uncertainty-Quesne.pdf";
