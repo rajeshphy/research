@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/research/research/2024/06/11/PPT.html</loc>
+<lastmod>2024-06-11T00:00:35+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/research/research/2024/08/11/SUSY.html</loc>
 <lastmod>2024-08-11T21:20:35+05:30</lastmod>
 </url>
@@ -86,6 +90,10 @@
 <lastmod>2024-09-12T14:45:09+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/research/PAPERS-ORG/Dirac/1991-SUSY-Quesne.pdf</loc>
+<lastmod>2024-10-15T14:35:59+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/research/PAPERS-ORG/Dirac/1995-SUSY-Moshinsky.pdf</loc>
 <lastmod>2024-09-28T15:15:09+05:30</lastmod>
 </url>
@@ -124,6 +132,18 @@
 <url>
 <loc>http://localhost:4000/research/PAPERS-ORG/EOP/quesne2008.pdf</loc>
 <lastmod>2024-08-15T14:16:13+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/PAPERS-ORG/PPT/SBU-Conference.pdf</loc>
+<lastmod>2024-08-24T11:38:22+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/PAPERS-ORG/PPT/SBU-PPT.pdf</loc>
+<lastmod>2024-08-24T11:38:22+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/PAPERS-ORG/PPT/SKMU-1st-PPT.pdf</loc>
+<lastmod>2024-08-24T11:38:22+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/research/PAPERS-ORG/PT-Symmetry/2002-Characterization-Non-Hermitian-Mostafazadeh.pdf</loc>

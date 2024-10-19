@@ -1,0 +1,24 @@
+---
+title:  "PhD: Presentations"
+date:   2024-06-11 00:00:35 +0530
+categories: research
+---
+
+This page contains the presentations related to my PhD work. Given at University and also in various conferences and seminars.
+
+---
+
+<div class="mermaid">
+flowchart TD;
+    A[24-August-2023-PhD-Synopsis] --> B[16-February-2024-SBU-Conference];
+
+
+
+
+    click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/PPT/SKMU-1st-PPT.pdf";
+    click B "{{ site.PAPERS-ORG }}/PAPERS-ORG/PPT/SBU-PPT.pdf";
+    
+</div>
+
+
+
