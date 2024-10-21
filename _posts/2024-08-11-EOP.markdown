@@ -35,7 +35,7 @@ flowchart TD;
 
     click C "{{ site.PAPERS-ORG }}/PAPERS-ORG/EOP/2004-Algebraic-Deformations-Ullate-Kamran-Milson.pdf";
 
-    click D "{{ site.PAPERS-ORG }}/papers/2012-Grandati-Rational-Extension.pdf";
+    click D "{{ site.PAPERS-ORG }}/PAPERS-ORG/SUSY/2012-Grandati-Rational-Extension.pdf";
 </div>
 
 
