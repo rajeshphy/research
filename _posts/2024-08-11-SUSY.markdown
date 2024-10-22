@@ -24,6 +24,7 @@ Some Research Papers:
 ---
 
 [Trends in SUSY by Fernandez](https://arxiv.org/pdf/1811.06449)
+
 Flowchart Based on Paper: [SQM - David J. Fern´andez C.](https://arxiv.org/pdf/0910.0192)
 
 **Citation**: [susy-google-doc](https://docs.google.com/document/d/1a4g1dg2LqvxP5OmUJ6Bu4McSia8_rKj0HqwBh7VCxI4/edit?usp=sharing)
