@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-10-19T12:48:59+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Dirac Oscillator</title><link href="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html" rel="alternate" type="text/html" title="Dirac Oscillator" /><published>2024-09-12T00:00:35+05:30</published><updated>2024-09-12T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator</id><content type="html" xml:base="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html">&lt;p&gt;The Dirac oscillator is a relativistic quantum system that extends the Dirac equation by incorporating a linear dependence on both momentum and spatial coordinates.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-11-16T13:17:26+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Dirac Oscillator</title><link href="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html" rel="alternate" type="text/html" title="Dirac Oscillator" /><published>2024-09-12T00:00:35+05:30</published><updated>2024-09-12T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator</id><content type="html" xml:base="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html">&lt;p&gt;The Dirac oscillator is a relativistic quantum system that extends the Dirac equation by incorporating a linear dependence on both momentum and spatial coordinates.&lt;/p&gt;
 
 &lt;p&gt;Originally conceived as a modification of the free particle Dirac equation, the Dirac oscillator offers a framework where the dynamics exhibit features of a harmonic oscillator with a significant spin-orbit coupling in the non-relativistic limit. This unique coupling results in a distinct energy spectrum and degeneracy structure, which sets it apart from the conventional quantum harmonic oscillator. The Dirac oscillator has attracted significant interest due to its applications in various areas of quantum mechanics, quantum field theory, and its role in exploring relativistic quantum systems with potential applications in particle physics and condensed matter.&lt;/p&gt;
 
@@ -114,10 +114,10 @@ graph TD;
 &lt;div class=&quot;mermaid&quot;&gt;
 graph TD;
 
-    
-    A1[2002 - Necessary and Sufficient Condition -Mostafazadeh]
-    A2[2002 - Characterization of Non-Hermitian -Mostafazadeh]
-    A3[2002 - Equivalence: pseudo-hermiticity &amp;amp; antilinear symmetry -Mostafazadeh]
+    A[1999 - PT-symmetric harmonic oscillators - Znojil]
+    A1[2002 - Necessary and Sufficient Condition - Mostafazadeh]
+    A2[2002 - Characterization of Non-Hermitian - Mostafazadeh]
+    A3[2002 - Equivalence: pseudo-hermiticity &amp;amp; antilinear symmetry - Mostafazadeh]
     
     B[2002 - Pseudo-Hermiticity and Gauge Like Transformations -Z.Ahmed]
 
@@ -127,10 +127,12 @@ graph TD;
     D[2016 - Similarity Transformation: Non-Hermitian Hamiltonians - Fernández F. M.]
 
 
-    A1--&amp;gt;A2; A2--&amp;gt;A3; A3--&amp;gt;B;
+
+    A--&amp;gt;A1--&amp;gt;A2; A2--&amp;gt;A3; A3--&amp;gt;B;
     B--&amp;gt;C; C--&amp;gt;D;
 
 
+    click A &quot;/research/PAPERS-ORG/PT-Symmetry/1999-znojil.pdf&quot;;
     click A1 &quot;/research/PAPERS-ORG/PT-Symmetry/2002-Necessary-Sufficient-Condition-Mostafazadeh.pdf&quot;;
     click A2 &quot;/research/PAPERS-ORG/PT-Symmetry/2002-Characterization-Non-Hermitian-Mostafazadeh.pdf&quot;;
     click A3 &quot;/research/PAPERS-ORG/PT-Symmetry/2002-Equivalence-Pseudo-Hermiticity-Antilinear-Symmetries-Mostafazadeh.pdf&quot;;
@@ -173,7 +175,7 @@ flowchart TD;
 
     click C &quot;/research/PAPERS-ORG/EOP/2004-Algebraic-Deformations-Ullate-Kamran-Milson.pdf&quot;;
 
-    click D &quot;/research/papers/2012-Grandati-Rational-Extension.pdf&quot;;
+    click D &quot;/research/PAPERS-ORG/SUSY/2012-Grandati-Rational-Extension.pdf&quot;;
 &lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">Started with D G´omez-Ullate in 2004, the concept of Exceptional Orthogonal Polynomials (EOP) was introduced. This concept was further developed by C Quesne in 2008 and Yves Grandati in 2012.</summary></entry><entry><title type="html">Supersymmetry Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/11/SUSY.html" rel="alternate" type="text/html" title="Supersymmetry Quantum Mechanics" /><published>2024-08-11T21:20:35+05:30</published><updated>2024-08-11T21:20:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/11/SUSY</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/11/SUSY.html">&lt;p&gt;Started with L. Infeld, and T.E. Hull in 1951, the factorization method was used to solve the Schrödinger equation. This method was later used by Gendenshtein in 1983 to introduce the concept of shape invariance. This concept was further developed by Cooper and Freedman in 1983.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -192,6 +194,9 @@ flowchart TD;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1811.06449&quot;&gt;Trends in SUSY by Fernandez&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Flowchart Based on Paper: &lt;a href=&quot;https://arxiv.org/pdf/0910.0192&quot;&gt;SQM - David J. Fern´andez C.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt;: &lt;a href=&quot;https://docs.google.com/document/d/1a4g1dg2LqvxP5OmUJ6Bu4McSia8_rKj0HqwBh7VCxI4/edit?usp=sharing&quot;&gt;susy-google-doc&lt;/a&gt;&lt;/p&gt;

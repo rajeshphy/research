@@ -19,10 +19,10 @@ Flowchart Based on Paper:
 <div class="mermaid">
 graph TD;
 
-    
-    A1[2002 - Necessary and Sufficient Condition -Mostafazadeh]
-    A2[2002 - Characterization of Non-Hermitian -Mostafazadeh]
-    A3[2002 - Equivalence: pseudo-hermiticity & antilinear symmetry -Mostafazadeh]
+    A[1999 - PT-symmetric harmonic oscillators - Znojil]
+    A1[2002 - Necessary and Sufficient Condition - Mostafazadeh]
+    A2[2002 - Characterization of Non-Hermitian - Mostafazadeh]
+    A3[2002 - Equivalence: pseudo-hermiticity & antilinear symmetry - Mostafazadeh]
     
     B[2002 - Pseudo-Hermiticity and Gauge Like Transformations -Z.Ahmed]
 
@@ -32,10 +32,12 @@ graph TD;
     D[2016 - Similarity Transformation: Non-Hermitian Hamiltonians - Fernández F. M.]
 
 
-    A1-->A2; A2-->A3; A3-->B;
+
+    A-->A1-->A2; A2-->A3; A3-->B;
     B-->C; C-->D;
 
 
+    click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/1999-znojil.pdf";
     click A1 "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/2002-Necessary-Sufficient-Condition-Mostafazadeh.pdf";
     click A2 "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/2002-Characterization-Non-Hermitian-Mostafazadeh.pdf";
     click A3 "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/2002-Equivalence-Pseudo-Hermiticity-Antilinear-Symmetries-Mostafazadeh.pdf";
