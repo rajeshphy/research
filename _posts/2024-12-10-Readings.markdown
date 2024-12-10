@@ -1,0 +1,19 @@
+---
+title:  "Dirac Oscillator"
+date:   2024-12-10 00:00:35 +0530
+categories: research
+---
+
+Reading List
+
+---
+<div class="mermaid">
+graph TD;
+
+    A[2011 Information entropy D.Dutta] 
+
+    click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/Readings/2011-Information-entropy.pdf";
+</div>
+
+    
+    
