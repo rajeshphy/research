@@ -1,5 +1,5 @@
 ---
-title:  "Dirac Oscillator"
+title:  "Reading List"
 date:   2024-12-10 00:00:35 +0530
 categories: research
 ---
