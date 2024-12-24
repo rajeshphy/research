@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-12-24T21:07:26+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Reading List</title><link href="http://localhost:4000/research/research/2024/12/10/Readings.html" rel="alternate" type="text/html" title="Reading List" /><published>2024-12-10T00:00:35+05:30</published><updated>2024-12-10T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/12/10/Readings</id><content type="html" xml:base="http://localhost:4000/research/research/2024/12/10/Readings.html">&lt;p&gt;Reading List&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-12-24T21:14:51+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Reading List</title><link href="http://localhost:4000/research/research/2024/12/10/Readings.html" rel="alternate" type="text/html" title="Reading List" /><published>2024-12-10T00:00:35+05:30</published><updated>2024-12-10T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/12/10/Readings</id><content type="html" xml:base="http://localhost:4000/research/research/2024/12/10/Readings.html">&lt;p&gt;Reading List&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;mermaid&quot;&gt;
@@ -371,7 +371,7 @@ flowchart BT;
 
     click M &quot;https://scholar.google.com/citations?user=eKE6B_MAAAAJ&amp;amp;hl=en&quot; &quot;R.K.Y&quot;;
     click M2 &quot;https://scholar.google.com/citations?user=4zv_aE4AAAAJ&amp;amp;hl=en&quot; &quot;Nisha Kumari&quot;;
-    click M2 &quot;https://scholar.google.com/citations?user=5AzveuwAAAAJ&amp;amp;hl=en&quot; &quot;Ian Marquette&quot;;
+    click M3 &quot;https://scholar.google.com/citations?user=5AzveuwAAAAJ&amp;amp;hl=en&quot; &quot;Ian Marquette&quot;;
 
     click N &quot;https://scholar.google.com/citations?user=YggEsvoAAAAJ&amp;amp;hl=enD&quot; &quot;Anjana Sinha&quot;;
     click O &quot;https://nitap.irins.org/profile/139709&quot; &quot;Debjit Dutta&quot;;
@@ -399,11 +399,6 @@ flowchart BT;
 
     G1in --&amp;gt; C[Bijan Bagchi];
     G1in --&amp;gt; D[Pinaki Roy];
-
-
-
-
-
 
 
     G1in--&amp;gt; G1ab
