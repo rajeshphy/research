@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/research/research/2023/12/24/GROUP.html</loc>
+<lastmod>2023-12-24T00:00:35+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/research/research/2024/06/11/PPT.html</loc>
 <lastmod>2024-06-11T00:00:35+05:30</lastmod>
 </url>
@@ -27,6 +31,10 @@
 <url>
 <loc>http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html</loc>
 <lastmod>2024-09-12T00:00:35+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/research/2024/12/10/Readings.html</loc>
+<lastmod>2024-12-10T00:00:35+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/research/</loc>
@@ -176,6 +184,10 @@
 <url>
 <loc>http://localhost:4000/research/PAPERS-ORG/RKY-Thesis-unlocked.pdf</loc>
 <lastmod>2024-08-15T14:16:13+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/PAPERS-ORG/Readings/2011-Information-entropy.pdf</loc>
+<lastmod>2024-12-10T16:48:49+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/research/PAPERS-ORG/SUSY/1951-Infeld-Hull.pdf</loc>

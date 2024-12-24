@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-11-16T13:17:26+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Dirac Oscillator</title><link href="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html" rel="alternate" type="text/html" title="Dirac Oscillator" /><published>2024-09-12T00:00:35+05:30</published><updated>2024-09-12T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator</id><content type="html" xml:base="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html">&lt;p&gt;The Dirac oscillator is a relativistic quantum system that extends the Dirac equation by incorporating a linear dependence on both momentum and spatial coordinates.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-12-24T20:49:58+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Reading List</title><link href="http://localhost:4000/research/research/2024/12/10/Readings.html" rel="alternate" type="text/html" title="Reading List" /><published>2024-12-10T00:00:35+05:30</published><updated>2024-12-10T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/12/10/Readings</id><content type="html" xml:base="http://localhost:4000/research/research/2024/12/10/Readings.html">&lt;p&gt;Reading List&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;mermaid&quot;&gt;
+graph TD;
+
+    A[2011 Information entropy D.Dutta] 
+
+    click A &quot;/research/PAPERS-ORG/Readings/2011-Information-entropy.pdf&quot;;
+&lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">Reading List</summary></entry><entry><title type="html">Dirac Oscillator</title><link href="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html" rel="alternate" type="text/html" title="Dirac Oscillator" /><published>2024-09-12T00:00:35+05:30</published><updated>2024-09-12T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator</id><content type="html" xml:base="http://localhost:4000/research/research/2024/09/12/Dirac-Oscillator.html">&lt;p&gt;The Dirac oscillator is a relativistic quantum system that extends the Dirac equation by incorporating a linear dependence on both momentum and spatial coordinates.&lt;/p&gt;
 
 &lt;p&gt;Originally conceived as a modification of the free particle Dirac equation, the Dirac oscillator offers a framework where the dynamics exhibit features of a harmonic oscillator with a significant spin-orbit coupling in the non-relativistic limit. This unique coupling results in a distinct energy spectrum and degeneracy structure, which sets it apart from the conventional quantum harmonic oscillator. The Dirac oscillator has attracted significant interest due to its applications in various areas of quantum mechanics, quantum field theory, and its role in exploring relativistic quantum systems with potential applications in particle physics and condensed matter.&lt;/p&gt;
 
@@ -308,4 +317,80 @@ flowchart TD;
     click A &quot;/research/PAPERS-ORG/PPT/SKMU-1st-PPT.pdf&quot;;
     click B &quot;/research/PAPERS-ORG/PPT/SBU-PPT.pdf&quot;;
     
-&lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">This page contains the presentations related to my PhD work. Given at University and also in various conferences and seminars.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">This page contains the presentations related to my PhD work. Given at University and also in various conferences and seminars.</summary></entry><entry><title type="html">Related Research Network</title><link href="http://localhost:4000/research/research/2023/12/24/GROUP.html" rel="alternate" type="text/html" title="Related Research Network" /><published>2023-12-24T00:00:35+05:30</published><updated>2023-12-24T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2023/12/24/GROUP</id><content type="html" xml:base="http://localhost:4000/research/research/2023/12/24/GROUP.html">&lt;hr /&gt;
+
+&lt;div class=&quot;mermaid&quot;&gt;
+flowchart BT;
+    G1in{Generation I: India}
+    G1ab{Generation I: Abroad} 
+    G2((Generation II)) 
+    G3((Generation III))
+    G4((Generation IV))
+    
+    
+    G1in --&amp;gt; A[Rajkumar Roychoudhury];
+    G1in --&amp;gt; B[Avinash Khare];
+    G1in --&amp;gt; C[Bijan Bagchi];
+    G1in --&amp;gt; D[Pinaki Roy];
+
+    G1ab --&amp;gt; E[C.M. Bender];
+    G1ab --&amp;gt; F[Zenojil];
+    G1ab --&amp;gt; G[Quesne];
+    G1ab --&amp;gt; H[George Junker];
+    G1ab --&amp;gt; I[F. Cooper];
+
+    
+    
+
+    G2 --&amp;gt; J[Baranana Roy];
+    G2 --&amp;gt; K[B.P. Mandal];
+    G2 --&amp;gt; L[P.K. Panigrahi];
+    G2 --&amp;gt; L2[Zafar Ahmed];
+
+    G3 --&amp;gt; M[Rajesh Kr. Yadav];
+    G3 --&amp;gt; M2[Nisha Kumari];
+    G3 --&amp;gt; M3[Ian Marquette];
+    G3 --&amp;gt; N[Anjana Sinha];
+    G3 --&amp;gt; O[Debjit Dutta];
+    G3 --&amp;gt; P[Debraj Nath];
+
+
+    G4 --&amp;gt; Q[Suman Banerjee];
+    G4 --&amp;gt; R[Rajesh Kumar];
+
+
+
+
+
+
+
+
+    G1ab--&amp;gt;G1in --&amp;gt; G2--&amp;gt;G3--&amp;gt;G4
+
+
+
+    click A &quot;https://inspirehep.net/authors/2316376&quot; &quot;Rajkumar Roychoudhury&quot;;
+    click B &quot;https://inspirehep.net/authors/1003102&quot; &quot;Avinash Khare&quot;;
+    click C &quot;https://scholar.google.com/citations?user=dBdyaRQAAAAJ&amp;amp;hl=en&quot; &quot;Bijan Bagchi&quot;;
+    click D &quot;https://scholar.google.com/citations?user=M7gHkc4AAAAJ&quot; &quot;Pinaki Roy&quot;;
+    click E &quot;https://scholar.google.com/citations?user=eYVXgAoAAAAJ&amp;amp;hl=en&quot; &quot;C.M. Bender&quot;;
+    click F &quot;https://inspirehep.net/authors/981969&quot; &quot;Zenojil&quot;;
+    click G &quot;https://inspirehep.net/authors/992533&quot; &quot;Quesne&quot;;
+    click H &quot;https://scholar.google.com/citations?user=QYoBfgcAAAAJ&amp;amp;hl=en&quot; &quot;George Junker&quot;;
+    click I &quot;https://scholar.google.com/citations?user=GvDE0ZIAAAAJ&amp;amp;hl=en&quot; &quot;F. Cooper&quot;;
+
+    click J &quot;https://scholar.google.com/citations?user=7cBXPMoAAAAJ&amp;amp;hl=en&quot; &quot;Baranana Roy&quot;;
+    click K &quot;https://scholar.google.com/citations?user=Gc3odukAAAAJ&amp;amp;hl=en&quot; &quot;B.P. Mandal&quot;;
+    click L &quot;https://scholar.google.com/citations?user=MDXDFdUAAAAJ&amp;amp;hl=en&quot; &quot;P.K. Panigrahi&quot;;
+    click L2 &quot;https://scholar.google.com/citations?user=REVBlzcAAAAJ&amp;amp;hl=en&quot; &quot;Zafar Ahmed&quot;;
+
+    click M &quot;https://scholar.google.com/citations?user=eKE6B_MAAAAJ&amp;amp;hl=en&quot; &quot;R.K.Y&quot;;
+    click M2 &quot;https://scholar.google.com/citations?user=4zv_aE4AAAAJ&amp;amp;hl=en&quot; &quot;Nisha Kumari&quot;;
+    click M2 &quot;https://scholar.google.com/citations?user=5AzveuwAAAAJ&amp;amp;hl=en&quot; &quot;Ian Marquette&quot;;
+
+    click N &quot;https://scholar.google.com/citations?user=YggEsvoAAAAJ&amp;amp;hl=enD&quot; &quot;Anjana Sinha&quot;;
+    click O &quot;https://nitap.irins.org/profile/139709&quot; &quot;Debjit Dutta&quot;;
+    click P &quot;https://scholar.google.com/citations?user=Sj836u4AAAAJ&amp;amp;hl=en&quot; &quot;Debraj Nath&quot;;
+    click Q &quot;https://scholar.google.com/citations?user=pqIso_QAAAAJ&amp;amp;hl=en&quot; &quot;Suman Banerjee&quot;;
+    click R &quot;https://scholar.google.com/citations?user=2Wx13GIAAAAJ&quot; &quot;Rajesh Kumar&quot;;
+&lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html"></summary></entry></feed>

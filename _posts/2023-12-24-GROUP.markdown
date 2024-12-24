@@ -1,0 +1,87 @@
+---
+title:  "Related Research Network"
+date:   2023-12-24 00:00:35 +0530
+categories: research
+---
+
+
+---
+
+<div class="mermaid">
+flowchart BT;
+    G1in{Generation I: India}
+    G1ab{Generation I: Abroad} 
+    G2((Generation II)) 
+    G3((Generation III))
+    G4((Generation IV))
+    
+    
+    G1in --> A[Rajkumar Roychoudhury];
+    G1in --> B[Avinash Khare];
+    G1in --> C[Bijan Bagchi];
+    G1in --> D[Pinaki Roy];
+
+    G1ab --> E[C.M. Bender];
+    G1ab --> F[Zenojil];
+    G1ab --> G[Quesne];
+    G1ab --> H[George Junker];
+    G1ab --> I[F. Cooper];
+
+    
+    
+
+    G2 --> J[Baranana Roy];
+    G2 --> K[B.P. Mandal];
+    G2 --> L[P.K. Panigrahi];
+    G2 --> L2[Zafar Ahmed];
+
+    G3 --> M[Rajesh Kr. Yadav];
+    G3 --> M2[Nisha Kumari];
+    G3 --> M3[Ian Marquette];
+    G3 --> N[Anjana Sinha];
+    G3 --> O[Debjit Dutta];
+    G3 --> P[Debraj Nath];
+
+
+    G4 --> Q[Suman Banerjee];
+    G4 --> R[Rajesh Kumar];
+
+
+
+
+
+
+
+
+    G1ab-->G1in --> G2-->G3-->G4
+
+
+
+    click A "https://inspirehep.net/authors/2316376" "Rajkumar Roychoudhury";
+    click B "https://inspirehep.net/authors/1003102" "Avinash Khare";
+    click C "https://scholar.google.com/citations?user=dBdyaRQAAAAJ&hl=en" "Bijan Bagchi";
+    click D "https://scholar.google.com/citations?user=M7gHkc4AAAAJ" "Pinaki Roy";
+    click E "https://scholar.google.com/citations?user=eYVXgAoAAAAJ&hl=en" "C.M. Bender";
+    click F "https://inspirehep.net/authors/981969" "Zenojil";
+    click G "https://inspirehep.net/authors/992533" "Quesne";
+    click H "https://scholar.google.com/citations?user=QYoBfgcAAAAJ&hl=en" "George Junker";
+    click I "https://scholar.google.com/citations?user=GvDE0ZIAAAAJ&hl=en" "F. Cooper";
+
+    click J "https://scholar.google.com/citations?user=7cBXPMoAAAAJ&hl=en" "Baranana Roy";
+    click K "https://scholar.google.com/citations?user=Gc3odukAAAAJ&hl=en" "B.P. Mandal";
+    click L "https://scholar.google.com/citations?user=MDXDFdUAAAAJ&hl=en" "P.K. Panigrahi";
+    click L2 "https://scholar.google.com/citations?user=REVBlzcAAAAJ&hl=en" "Zafar Ahmed";
+
+    click M "https://scholar.google.com/citations?user=eKE6B_MAAAAJ&hl=en" "R.K.Y";
+    click M2 "https://scholar.google.com/citations?user=4zv_aE4AAAAJ&hl=en" "Nisha Kumari";
+    click M2 "https://scholar.google.com/citations?user=5AzveuwAAAAJ&hl=en" "Ian Marquette";
+
+    click N "https://scholar.google.com/citations?user=YggEsvoAAAAJ&hl=enD" "Anjana Sinha";
+    click O "https://nitap.irins.org/profile/139709" "Debjit Dutta";
+    click P "https://scholar.google.com/citations?user=Sj836u4AAAAJ&hl=en" "Debraj Nath";
+    click Q "https://scholar.google.com/citations?user=pqIso_QAAAAJ&hl=en" "Suman Banerjee";
+    click R "https://scholar.google.com/citations?user=2Wx13GIAAAAJ" "Rajesh Kumar";
+</div>
+
+
+
