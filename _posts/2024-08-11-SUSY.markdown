@@ -7,6 +7,9 @@ categories: research
 Started with L. Infeld, and T.E. Hull in 1951, the factorization method was used to solve the Schrödinger equation. This method was later used by Gendenshtein in 1983 to introduce the concept of shape invariance. This concept was further developed by Cooper and Freedman in 1983.
 
 ---
+
+[Freed Cooper Book]({{ site.PAPERS-ORG }}/PAPERS-ORG/SUSY/Book/SQM.pdf)
+
 Some Research Papers:
 
 - [SQM - A. Khare](https://www.ias.ac.in/article/fulltext/pram/049/01/0041-0064)
