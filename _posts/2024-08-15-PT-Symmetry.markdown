@@ -31,10 +31,12 @@ graph TD;
         
     D[2016 - Similarity Transformation: Non-Hermitian Hamiltonians - Fernández F. M.]
 
+    E[1998 - Real Spectra in Non-Hermitian Hamiltonians - Bender C. M.]
+
 
 
     A-->A1-->A2; A2-->A3; A3-->B;
-    B-->C; C-->D;
+    B-->C; C-->D; D-->E;
 
 
     click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/1999-znojil.pdf";
@@ -47,6 +49,10 @@ graph TD;
     click C "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/2013-PT-Phase-Transition-Mandal.pdf";
 
     click D "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/2016-Similarity-Transformation-Fernandez.pdf";
+
+    click E "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/bender1998.pdf";
+
+
 
 
 
