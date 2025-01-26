@@ -33,6 +33,8 @@ graph TD;
 
     E[1998 - Real Spectra in Non-Hermitian Hamiltonians - Bender C. M.]
 
+    E1[2001-On the eigenvalues and dynamics of non-Hermitian P T symmetric Hamiltonians in finite basis spaces - Chandan Kr. Mondal]
+
 
 
     A-->A1-->A2; A2-->A3; A3-->B;
@@ -51,6 +53,9 @@ graph TD;
     click D "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/2016-Similarity-Transformation-Fernandez.pdf";
 
     click E "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/bender1998.pdf";
+
+    click E1 "{{ site.PAPERS-ORG }}/PAPERS-ORG/PT-Symmetry/mondal2001.pdf";
+
 
 
 
