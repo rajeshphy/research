@@ -21,7 +21,7 @@ Some Research Papers:
 
 - [2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar]({{ site.PAPERS-ORG }}/PAPERS-ORG/SUSY/2023-Rajesh-Kumar-REHO.pdf)
 
-
+- [2016- Generalized quantum nonlinear oscillators: Exact solutions and rational extensions-Axel Schulze-Halberg]({{ site.PAPERS-ORG }}/PAPERS-ORG/SUSY/schulze-halberg2016.pdf)
 
 
 ---
