@@ -12,6 +12,13 @@ Flow Chart Based on paper: [2008 - EOP, Exactly solvable potentials and SUSY - C
 
 [2004 - First EOP Discovery - DBT and shape-invariant potentials - D G´omez-Ullate](https://arxiv.org/pdf/quant-ph/0308062)
 
+[2013-Rational extensions of the quantum
+harmonic oscillator and exceptional
+Hermite polynomials-David Gomez-Ullate]({{site.PAPERS-ORG}}/PAPERS-ORG/EOP/ullate2013.pdf)
+
+[2018-Exceptional Laguerre Polynomial-N Bonnex]({{site.PAPERS-ORG}}/PAPERS-ORG/EOP/bonneux2018.pdf)
+
+
 ---
 
 <div class="mermaid">
@@ -23,6 +30,8 @@ flowchart TD;
     C[2004 - Algebraic deformations and supersymmetry - Ullate, Kamran, Milson];
 
     D[2012 - Rational extension and EOP - Yves Grandati];
+
+
 
     A-->B;B-->B1; B1-->C; C-->D;
 
