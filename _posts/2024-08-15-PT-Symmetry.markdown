@@ -33,7 +33,7 @@ graph TD;
 
     E[1998 - Real Spectra in Non-Hermitian Hamiltonians - Bender C. M.]
 
-    E1[2001-On the eigenvalues and dynamics of non-Hermitian P T symmetric Hamiltonians in finite basis spaces - Chandan Kr. Mondal]
+    E1[2001-eigenvalues and dynamics of PT-Hamiltonians in finite basis spaces - Chandan Kr. Mondal]
 
 
 
