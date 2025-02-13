@@ -11,12 +11,15 @@ This page contains the presentations related to my PhD work. Given at University
 <div class="mermaid">
 flowchart TD;
     A[24-August-2023-PhD-Synopsis] --> B[16-February-2024-SBU-Conference];
+    B --> C[9-Feb-2025-KIIT-Conference];
 
 
 
 
     click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/PPT/SKMU-1st-PPT.pdf";
     click B "{{ site.PAPERS-ORG }}/PAPERS-ORG/PPT/SBU-PPT.pdf";
+    click C "{{ site.PAPERS-ORG }}/PAPERS-ORG/PPT/KIIT-poster-9-Feb-2025.pdf";
+
     
 </div>
 
