@@ -10,10 +10,12 @@ This page contains the presentations related to my PhD work. Given at University
 
 <div class="mermaid" style="background-color: lightgray; padding: 10px; border-radius: 5px;">
 flowchart TD;
-    A[2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar] --> B[2024 - Rational Extension of AHO HD];
+    A[2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar] --> B[2024 - Rational Extension of AHO HD]
+    --> C[2025 - Rational Extension with Linear and (or) Quadratic Perturbations];
 
     click A "{{ site.PAPERS-ORG }}/PAPERS-ORG/SUSY/2023-Rajesh-Kumar-REHO.pdf";
     click B "https://arxiv.org/pdf/2411.02955v1";
+    click C "https://arxiv.org/pdf/2504.08236";
 </div>
 
 
