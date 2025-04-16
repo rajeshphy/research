@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-12-24T21:14:51+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Reading List</title><link href="http://localhost:4000/research/research/2024/12/10/Readings.html" rel="alternate" type="text/html" title="Reading List" /><published>2024-12-10T00:00:35+05:30</published><updated>2024-12-10T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/12/10/Readings</id><content type="html" xml:base="http://localhost:4000/research/research/2024/12/10/Readings.html">&lt;p&gt;Reading List&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/research/https:/rajeshphy.github/io" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/research/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2025-04-16T16:08:16+05:30</updated><id>http://localhost:4000/research/https:/rajeshphy.github/io</id><title type="html">Rajesh Kumar</title><subtitle>Theoretical Physicst</subtitle><author><name>Rajesh Kumar</name></author><entry><title type="html">Reading List</title><link href="http://localhost:4000/research/research/2024/12/10/Readings.html" rel="alternate" type="text/html" title="Reading List" /><published>2024-12-10T00:00:35+05:30</published><updated>2024-12-10T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/12/10/Readings</id><content type="html" xml:base="http://localhost:4000/research/research/2024/12/10/Readings.html">&lt;p&gt;Reading List&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;div class=&quot;mermaid&quot;&gt;
@@ -135,10 +135,14 @@ graph TD;
         
     D[2016 - Similarity Transformation: Non-Hermitian Hamiltonians - Fernández F. M.]
 
+    E[1998 - Real Spectra in Non-Hermitian Hamiltonians - Bender C. M.]
+
+    E1[2001-eigenvalues and dynamics of PT-Hamiltonians in finite basis spaces - Chandan Kr. Mondal]
+
 
 
     A--&amp;gt;A1--&amp;gt;A2; A2--&amp;gt;A3; A3--&amp;gt;B;
-    B--&amp;gt;C; C--&amp;gt;D;
+    B--&amp;gt;C; C--&amp;gt;D; D--&amp;gt;E; E--&amp;gt;E1;
 
 
     click A &quot;/research/PAPERS-ORG/PT-Symmetry/1999-znojil.pdf&quot;;
@@ -152,6 +156,13 @@ graph TD;
 
     click D &quot;/research/PAPERS-ORG/PT-Symmetry/2016-Similarity-Transformation-Fernandez.pdf&quot;;
 
+    click E &quot;/research/PAPERS-ORG/PT-Symmetry/bender1998.pdf&quot;;
+
+    click E1 &quot;/research/PAPERS-ORG/PT-Symmetry/mondal2001.pdf&quot;;
+
+
+
+
 
 
 &lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">PT symmetry is a concept in quantum mechanics that was introduced in the 1990s. It is based on the idea that the laws of physics should be invariant under the combined operations of parity (P) and time reversal (T). In other words, if a system is symmetric under the combined operations of parity and time reversal, it is said to exhibit PT symmetry.</summary></entry><entry><title type="html">Exceptional Orthogonal polynomials</title><link href="http://localhost:4000/research/research/2024/08/12/EOP.html" rel="alternate" type="text/html" title="Exceptional Orthogonal polynomials" /><published>2024-08-12T00:00:35+05:30</published><updated>2024-08-12T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/12/EOP</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/12/EOP.html">&lt;p&gt;Started with D G´omez-Ullate in 2004, the concept of Exceptional Orthogonal Polynomials (EOP) was introduced. This concept was further developed by C Quesne in 2008 and Yves Grandati in 2012.&lt;/p&gt;
@@ -160,6 +171,10 @@ graph TD;
 &lt;p&gt;Flow Chart Based on paper: &lt;a href=&quot;/research/PAPERS-ORG/EOP/quesne2008.pdf&quot;&gt;2008 - EOP, Exactly solvable potentials and SUSY - C Quesne&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/quant-ph/0308062&quot;&gt;2004 - First EOP Discovery - DBT and shape-invariant potentials - D G´omez-Ullate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/research/PAPERS-ORG/EOP/ullate2013.pdf&quot;&gt;2013-Rational extensions of QHO and EOP-David Gomez-Ullate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/research/PAPERS-ORG/EOP/bonneux2018.pdf&quot;&gt;2018-Exceptional Laguerre Polynomial-N Bonnex&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -172,6 +187,8 @@ flowchart TD;
     C[2004 - Algebraic deformations and supersymmetry - Ullate, Kamran, Milson];
 
     D[2012 - Rational extension and EOP - Yves Grandati];
+
+
 
     A--&amp;gt;B;B--&amp;gt;B1; B1--&amp;gt;C; C--&amp;gt;D;
 
@@ -188,6 +205,9 @@ flowchart TD;
 &lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">Started with D G´omez-Ullate in 2004, the concept of Exceptional Orthogonal Polynomials (EOP) was introduced. This concept was further developed by C Quesne in 2008 and Yves Grandati in 2012.</summary></entry><entry><title type="html">Supersymmetry Quantum Mechanics</title><link href="http://localhost:4000/research/research/2024/08/11/SUSY.html" rel="alternate" type="text/html" title="Supersymmetry Quantum Mechanics" /><published>2024-08-11T21:20:35+05:30</published><updated>2024-08-11T21:20:35+05:30</updated><id>http://localhost:4000/research/research/2024/08/11/SUSY</id><content type="html" xml:base="http://localhost:4000/research/research/2024/08/11/SUSY.html">&lt;p&gt;Started with L. Infeld, and T.E. Hull in 1951, the factorization method was used to solve the Schrödinger equation. This method was later used by Gendenshtein in 1983 to introduce the concept of shape invariance. This concept was further developed by Cooper and Freedman in 1983.&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/Book/SQM.pdf&quot;&gt;Freed Cooper Book&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Some Research Papers:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -199,7 +219,10 @@ flowchart TD;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/Adjoint-DarbouxTransformationLiouville-Thesis.pdf&quot;&gt;Thesis - Adjoint-DarbouxTransformation-Liouville - Kyle Robert Bryenton&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/2023-Rajesh-Kumar-REHO.pdf&quot;&gt;2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/2023-Rajesh-Kumar-REHO.pdf&quot;&gt;2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/research/PAPERS-ORG/SUSY/schulze-halberg2016.pdf&quot;&gt;2016- Generalized quantum nonlinear oscillators: Exact solutions and rational extensions-Axel Schulze-Halberg&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -307,15 +330,29 @@ flowchart TD;
 
 &lt;hr /&gt;
 
+&lt;div class=&quot;mermaid&quot; style=&quot;background-color: lightgray; padding: 10px; border-radius: 5px;&quot;&gt;
+flowchart TD;
+    A[2023 - REHO, isospectral and Uncertainty Principle - Rajesh Kumar] --&amp;gt; B[2024 - Rational Extension of AHO HD]--&amp;gt; C[2025 - Rational Extension with Linear and Quadratic Perturbations];
+
+    click A &quot;/research/PAPERS-ORG/SUSY/2023-Rajesh-Kumar-REHO.pdf&quot;;
+    click B &quot;https://arxiv.org/pdf/2411.02955v1&quot;;
+    click C &quot;https://arxiv.org/pdf/2504.08236&quot;;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
 &lt;div class=&quot;mermaid&quot;&gt;
 flowchart TD;
     A[24-August-2023-PhD-Synopsis] --&amp;gt; B[16-February-2024-SBU-Conference];
+    B --&amp;gt; C[9-Feb-2025-KIIT-Conference];
 
 
 
 
     click A &quot;/research/PAPERS-ORG/PPT/SKMU-1st-PPT.pdf&quot;;
     click B &quot;/research/PAPERS-ORG/PPT/SBU-PPT.pdf&quot;;
+    click C &quot;/research/PAPERS-ORG/PPT/KIIT-poster-9-Feb-2025.pdf&quot;;
+
     
 &lt;/div&gt;</content><author><name>Rajesh Kumar</name></author><summary type="html">This page contains the presentations related to my PhD work. Given at University and also in various conferences and seminars.</summary></entry><entry><title type="html">Related Research Network</title><link href="http://localhost:4000/research/research/2023/12/24/GROUP.html" rel="alternate" type="text/html" title="Related Research Network" /><published>2023-12-24T00:00:35+05:30</published><updated>2023-12-24T00:00:35+05:30</updated><id>http://localhost:4000/research/research/2023/12/24/GROUP</id><content type="html" xml:base="http://localhost:4000/research/research/2023/12/24/GROUP.html">&lt;hr /&gt;
 
@@ -405,7 +442,7 @@ flowchart BT;
 
 
     click A &quot;https://inspirehep.net/authors/2316376&quot; &quot;Rajkumar Roychoudhury&quot;;
-    click B &quot;https://inspirehep.net/authors/1003102&quot; &quot;Avinash Khare&quot;;
+    click B &quot;https://www.researchgate.net/profile/Avinash-Khare-3&quot; &quot;Avinash Khare&quot;;
     click C &quot;https://scholar.google.com/citations?user=dBdyaRQAAAAJ&amp;amp;hl=en&quot; &quot;Bijan Bagchi&quot;;
     click D &quot;https://scholar.google.com/citations?user=M7gHkc4AAAAJ&quot; &quot;Pinaki Roy&quot;;
     click E &quot;https://scholar.google.com/citations?user=eYVXgAoAAAAJ&amp;amp;hl=en&quot; &quot;C.M. Bender&quot;;
