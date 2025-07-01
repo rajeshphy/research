@@ -4,8 +4,7 @@ date:   2024-06-11 00:00:35 +0530
 categories: research
 ---
 
-This page contains the presentations related to my PhD work. Given at University and also in various conferences and seminars.
-
+This page contains the presentations, Certificate issued from conference, Workshop, etc.
 ---
 
 <div class="mermaid" style="background-color: lightgray; padding: 10px; border-radius: 5px;">
