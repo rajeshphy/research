@@ -5,6 +5,7 @@ categories: research
 ---
 
 This page contains the presentations, Certificate issued from conference, Workshop, etc.
+
 ---
 
 <div class="mermaid" style="background-color: lightgray; padding: 10px; border-radius: 5px;">
