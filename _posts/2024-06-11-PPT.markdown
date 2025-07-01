@@ -43,14 +43,17 @@ flowchart TD;
 <div class="mermaid" style="background-color: lightgray; padding: 10px; border-radius: 5px;">
 flowchart TD;
     A1[Nov 16, 2021 - RU FDP] --> A2[Mar 31, 2022 - SKMU Social Responsibility Workshop] --> A3[Feb 28, 2022 - SKMU Capacity Building Workshop] --> 
-    A4[Mar 03, 2023 - SKMU FDP] --> A5[Feb 16, 2024 - SBU National Conference] --> 
+    A4[Mar 03, 2023 - SKMU FDP] --> 
+    A41[Feb 02, 2024 - HRDC Innovation Workshop] -->
+    A5[Feb 16, 2024 - SBU National Conference] --> 
     A6[Sep 09, 2024 - CSSTEAP] --> A7[Sep 11, 2024 - XISS Ranking Framework Workshop] --> 
     A8[Feb 08, 2025 - KIIT International Conference] --> A9[Jun 21, 2025 - JRU Character Building Workshop];
 
     click A1 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Nov-16-2021-RU-FDP.png";
     click A2 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Mar-31-2022-SKMU-Social-Responsibility-Workshop.png";
     click A3 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Feb-28-2022-SKMU-Capacity-Building-Workshop.png";
-    click A4 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/Mar-03-2023-SKMU-FDP.png";
+    click A4 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Mar-03-2023-SKMU-FDP.png";
+    click A41 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Feb-02-2024-HRDC-Startup-Workshop.png";
     click A5 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Feb-16-2024-SBU-National-Conference.png";
     click A6 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Sep-9-2024-cssteap.png";
     click A7 "{{ site.PAPERS-ORG }}/PAPERS-ORG/Seminar-Certificate/r_Sep-11-2024-XISS-Ranking-Framework-Workshop.png";
