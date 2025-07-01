@@ -39,8 +39,7 @@ flowchart TD;
 
 ---
 
-# Certificates related to Seminar, Conference & Workshops
-
+# Certificates
 
 
 
