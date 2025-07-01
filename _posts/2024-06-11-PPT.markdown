@@ -7,6 +7,7 @@ categories: research
 This page contains the presentations, Certificate issued from conference, Workshop, etc.
 
 ---
+# Papers
 
 <div class="mermaid" style="background-color: lightgray; padding: 10px; border-radius: 5px;">
 flowchart TD;
@@ -17,9 +18,9 @@ flowchart TD;
     click C "https://arxiv.org/pdf/2504.08236";
 </div>
 
-
-
 ---
+
+# Presentations
 
 <div class="mermaid">
 flowchart TD;
@@ -36,6 +37,9 @@ flowchart TD;
     
 </div>
 
+---
+
+# Certificates related to Seminar, Conference & Workshops
 
 
 
