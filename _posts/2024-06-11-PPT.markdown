@@ -1,5 +1,5 @@
 ---
-title:  "PhD: Presentations"
+title:  "Presentations, Papers, Certificates, etc."
 date:   2024-06-11 00:00:35 +0530
 categories: research
 ---
